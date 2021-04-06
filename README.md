@@ -1,4 +1,4 @@
-# GoCardless sample application
+# Django-blog application
 
 ## Pre-setup
 Create a new folder anywhere on your system

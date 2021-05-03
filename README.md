@@ -1,4 +1,4 @@
-# Django-blog application
+# django-blog-application
 
 ## Pre-setup
 Create a new folder anywhere on your system

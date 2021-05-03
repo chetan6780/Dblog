@@ -9,7 +9,7 @@ open terminal in this new folder
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/chetan6780/Django-blog.git
+$ git clone https://github.com/chetan6780/django-blog-application.git
 $ cd Django-blog
 ```
 
